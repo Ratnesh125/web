@@ -1,0 +1,9 @@
+document.querySelectorAll("button")[0].classList.add("invisible");
+document.querySelectorAll("button")[0].classList.remove("invisible");
+document.querySelectorAll("button")[0].classList.toggle("invisible");
+document.querySelector("h1").classList.add("huge");
+document.querySelector("h1").innerHTML="<u>Hii</u>";
+document.querySelector("h1").textContent="<u>Hii</u>";
+document.querySelector("a");
+document.querySelector("a").getAttribute("href");
+document.querySelector("a").setAttribute("href","https://www.facebook.com");
